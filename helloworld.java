@@ -2,6 +2,13 @@ import bwapi.*;
 import bwta.BWTA;
 import bwta.BaseLocation;
 
+/** BWAPI Starcraft API, https://bwapi.github.io */
+/** BWTA Broodwar Terrain Analyzer (BWTA) is a add-on
+for BWAPI which analyzes the current starcraft map and returns the set of expansion locations, regions, and choke points*/
+
+
+
+
 public class TestBot1 extends DefaultBWListener {
 
     private Mirror mirror = new Mirror();
