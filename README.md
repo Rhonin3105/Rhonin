@@ -17,6 +17,8 @@ The reason why I tried to make an SC AI Bot is that the SCBot is a blue ocean. T
 
 # TODO
 
+Follow some bots/papers
+
 Basic command control script.
 
 Complex command combination.
