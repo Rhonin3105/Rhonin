@@ -15,6 +15,23 @@ The reason why I tried to make an SC AI Bot is that the SCBot is a blue ocean. T
 
 <b>[SSCI](https://sscaitournament.com/)</b>, Student StarCraft AI Tournament is an educational event. 
 
+# Bot Zoo
+some reference bot
+
+[ualbertabot_C++](https://github.com/davechurchill/ualbertabot)
+
+[Overkill_C++](https://github.com/sijiaxu/Overkill)
+
+[Letabot_C++](https://github.com/MartinRooijackers/LetaBot)
+
+[Purplewave_Scala](https://github.com/dgant/PurpleWave)
+
+[AK Bot_C++](https://github.com/kant2002/ualbertabot)
+
+[KaonBot_Java](https://github.com/m-khan/KaonBot)
+
+[Steamhammer_C++](http://satirist.org/ai/starcraft/steamhammer/)
+
 # TODO
 
 Follow some bots/papers
