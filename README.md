@@ -34,6 +34,7 @@ some reference bot
 
 # TODO
 
+- [ ] Bots code review and mark.
 
 - [ ] Follow some bots/papers
 
