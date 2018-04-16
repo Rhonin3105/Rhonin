@@ -34,15 +34,16 @@ some reference bot
 
 # TODO
 
-Follow some bots/papers
 
-Basic command control script.
+- [ ] Follow some bots/papers
 
-Complex command combination.
+- [ ] Basic command control script.
 
-Make decisions by Reinforcement learning methods.
+- [ ] Complex command combination.
 
-Training.
+- [ ] Make decisions by Reinforcement learning methods.
+
+- [ ] Training.
 
 # License
 
