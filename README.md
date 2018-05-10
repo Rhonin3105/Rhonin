@@ -32,6 +32,10 @@ some reference bot
 
 [Steamhammer_C++](http://satirist.org/ai/starcraft/steamhammer/)
 
+# [StarCraft Strategy](http://liquipedia.net/starcraft/Strategy)
+
+Maybe you'll like it.
+
 # TODO
 
 - [ ] Bots code review and mark.
